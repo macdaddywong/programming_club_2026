@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 590">
+  <rect width="960" height="590" fill="#e9eddf"/>
+  <circle cx="782" cy="116" r="152" fill="#dbe5cb"/>
+  <rect x="163" y="58" width="634" height="474" rx="14" fill="#fbfcf8" stroke="#d7ddce" stroke-width="2"/>
+  <rect x="163" y="58" width="634" height="58" rx="14" fill="#f3f5ef"/>
+  <path d="M163 101h634" stroke="#e1e5dc" stroke-width="2"/>
+  <circle cx="191" cy="87" r="5" fill="#c6d9a4"/><circle cx="211" cy="87" r="5" fill="#dce8ca"/>
+  <text x="237" y="92" fill="#69735f" font-family="Arial,sans-serif" font-size="15">tiny wins</text>
+  <text x="212" y="165" fill="#30372b" font-family="Arial,sans-serif" font-size="27" font-weight="700">A little progress adds up.</text>
+  <text x="212" y="194" fill="#899080" font-family="Arial,sans-serif" font-size="14">Your week, one small win at a time.</text>
+  <rect x="212" y="223" width="536" height="205" rx="8" fill="#f8f9f4" stroke="#e7e9e1"/>
+  <text x="236" y="257" fill="#69735f" font-family="Arial,sans-serif" font-size="14">THIS WEEK</text>
+  <text x="676" y="257" fill="#69735f" font-family="Arial,sans-serif" font-size="13">4 of 7 days</text>
+  <path d="M250 371l77-45 78 19 77-75 78 34 78-64 75 29" fill="none" stroke="#91b849" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+  <g fill="#fbfcf8" stroke="#91b849" stroke-width="4"><circle cx="250" cy="371" r="7"/><circle cx="327" cy="326" r="7"/><circle cx="405" cy="345" r="7"/><circle cx="482" cy="270" r="7"/><circle cx="560" cy="304" r="7"/><circle cx="638" cy="240" r="7"/><circle cx="713" cy="269" r="7"/></g>
+  <g fill="#92998a" font-family="Arial,sans-serif" font-size="12"><text x="239" y="402">M</text><text x="317" y="402">T</text><text x="394" y="402">W</text><text x="472" y="402">T</text><text x="551" y="402">F</text><text x="628" y="402">S</text><text x="704" y="402">S</text></g>
+  <rect x="212" y="448" width="258" height="48" rx="6" fill="#f1f5e9"/>
+  <circle cx="237" cy="472" r="10" fill="#b7d88d"/>
+  <text x="257" y="477" fill="#56634a" font-family="Arial,sans-serif" font-size="13">Read for 10 minutes</text>
+  <rect x="484" y="448" width="264" height="48" rx="6" fill="#f1f5e9"/>
+  <circle cx="509" cy="472" r="10" fill="#dce8ca"/>
+  <text x="529" y="477" fill="#56634a" font-family="Arial,sans-serif" font-size="13">Take a little walk</text>
+</svg>

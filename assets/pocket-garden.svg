@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 590">
+  <rect width="960" height="590" fill="#e5eee4"/>
+  <circle cx="130" cy="470" r="170" fill="#d6e5d4"/>
+  <rect x="160" y="58" width="640" height="474" rx="14" fill="#fbfcf8" stroke="#d7e2d4" stroke-width="2"/>
+  <rect x="160" y="58" width="640" height="58" rx="14" fill="#f3f7f1"/>
+  <path d="M160 101h640" stroke="#e1e9df" stroke-width="2"/>
+  <circle cx="189" cy="87" r="5" fill="#a9c5a5"/><circle cx="209" cy="87" r="5" fill="#d0dfce"/>
+  <text x="236" y="92" fill="#637b61" font-family="Arial,sans-serif" font-size="15">pocket garden</text>
+  <text x="207" y="164" fill="#30372b" font-family="Arial,sans-serif" font-size="26" font-weight="700">Your leafy little corner</text>
+  <text x="207" y="192" fill="#899080" font-family="Arial,sans-serif" font-size="14">A few gentle reminders for your plants.</text>
+  <rect x="207" y="221" width="277" height="265" rx="9" fill="#f2f6ef"/>
+  <circle cx="345" cy="319" r="72" fill="#dce9d7"/>
+  <path d="M344 352c-4-55-27-79-55-82 3 26 15 45 55 54m1 28c6-53 28-79 55-84-1 27-16 47-55 57" fill="#8eae80"/>
+  <path d="M345 345c2-42 2-65 0-98" fill="none" stroke="#65885b" stroke-linecap="round" stroke-width="7"/>
+  <path d="M302 353h85l-9 58h-67z" fill="#c89170"/>
+  <path d="M302 359h85" stroke="#b57c61" stroke-width="6"/>
+  <text x="237" y="446" fill="#445342" font-family="Arial,sans-serif" font-size="14" font-weight="700">Monstera</text>
+  <text x="237" y="468" fill="#899080" font-family="Arial,sans-serif" font-size="12">Looking good today</text>
+  <rect x="504" y="221" width="249" height="120" rx="9" fill="#f6f5eb"/>
+  <circle cx="542" cy="260" r="17" fill="#e7e3c9"/>
+  <text x="574" y="258" fill="#69735f" font-family="Arial,sans-serif" font-size="12">NEXT UP</text>
+  <text x="529" y="302" fill="#30372b" font-family="Arial,sans-serif" font-size="16" font-weight="700">Water the pothos</text>
+  <text x="529" y="324" fill="#899080" font-family="Arial,sans-serif" font-size="12">Today · just a splash</text>
+  <rect x="504" y="356" width="249" height="130" rx="9" fill="#eff5ed"/>
+  <text x="529" y="390" fill="#69735f" font-family="Arial,sans-serif" font-size="12">YOUR GARDEN</text>
+  <text x="529" y="433" fill="#30372b" font-family="Arial,sans-serif" font-size="26" font-weight="700">3 plants</text>
+  <text x="529" y="458" fill="#899080" font-family="Arial,sans-serif" font-size="12">All growing at their own pace.</text>
+</svg>
